@@ -1,4 +1,4 @@
 # ExamPreparation
 Repo made for exercise
-
-Resolve the conflict
+Make some changes here!
+###Resolve the conflict
