@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello again!
+=======
+Conflict
+>>>>>>> a912d2e885df65134e5358ee6723ca64ab01f596
